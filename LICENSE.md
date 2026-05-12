@@ -1,4 +1,4 @@
-#  
+#  Enhance Trello for macOS with Trello for macOS top Plugin: OCR scanning & database templates, the #1 plugin. Includes OCR scanning and database templates for a smoother experience.
 
 
 
